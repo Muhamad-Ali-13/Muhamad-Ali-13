@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Muhamad%20Ali%20Akbar%20Abil%20Aziz&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;Back-End+Enthusiast;UI%2FUX+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;Back-End+Developer)](https://git.io/typing-svg)
 
 ---
 
